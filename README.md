@@ -5,8 +5,9 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4EF0C2&width=600&lines=Hey+there!+I'm+Sanskriti+👋;ML+%26+DL+Enthusiast+🧠;AI+For+Healthcare+and+Skincare+💡;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4EF0C2&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanskriti+👋;ML+%26+DL+Enthusiast+🧠;AI+For+Healthcare+and+Skincare+💡;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -55,8 +56,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" height="180px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=sanskriti25-95&show_icons=true&theme=radical" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskriti25-95&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
